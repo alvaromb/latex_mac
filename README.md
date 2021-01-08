@@ -6,6 +6,10 @@ A LaTeX template for MAC (Manfred Awesomic CV).
 
 Clone the repo and change the `cv.tex` file. Compile with `pdflatex`.
 
+## Output example
+
+Check the `cv.pdf` file for an output example of the CV structure.
+
 # License
 
 MIT.
